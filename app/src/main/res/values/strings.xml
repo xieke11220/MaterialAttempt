@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaterialAttempt</string>
+    <string name="open_describe">显示中...</string>
+    <string name="close_describe">关闭</string>
+</resources>

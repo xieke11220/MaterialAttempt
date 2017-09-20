@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nva_airplane"
+            android:icon="@mipmap/ic_airplanemode_active_black_18dp"
+            android:title="Airplane"/>
+
+        <item
+            android:id="@+id/battery"
+            android:icon="@mipmap/ic_battery_full_black_18dp"
+            android:title="Battery" />
+
+        <item
+            android:id="@+id/bluetooth"
+            android:icon="@mipmap/ic_bluetooth_black_18dp"
+            android:title="Bluetooth" />
+
+        <item
+            android:id="@+id/clock"
+            android:icon="@mipmap/ic_access_time_black_18dp"
+            android:title="Clock"/>
+    </group>
+</menu>
